@@ -6,17 +6,15 @@
 
 ## Favorite Shortcuts
 
-**Ctrl+G/Shift+Ctrl+G** Sublime-text multi select
+**Shift+Cmd+A** Start typing to get a list of suggested actions
+
+**Ctrl+G/Shift+Ctrl+G** Multi-Cursor Select (Sublime-text *Cmd-D*)
 
 **Cmd+Shift+Enter** Smart Autocomplete with semicolon
-
-**Option+Enter** - Fix syntax
 
 **Double-click Option and hold then press up or down arrow keys** - Multiple Cursors
 
 **Cmd+Option+V** - Introduce variable refactor
-
-**Cmd+J** - Live templates
 
 **Option+Cmd+L** - Reformat Code
 
@@ -24,16 +22,15 @@
 
 **Ctrl+Option+H** - Caller Hierarchy
 
+**Cmd+Option+B** - Navigate to Implementation
+
 **Cmd+Backspace** - Delete current line
 
 **^T** - Bring up Refactoring Options
 
 **Shift+F6** - Rename
 
-**Option+Cmd+B** - Navigate to Implementation
-
-**^H** - Type Hierarchy
-
+### Navigation
 
 **Fn+Cmd+Shift+Right Arrow** - Select all from cursor down
 
