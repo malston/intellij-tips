@@ -41,6 +41,7 @@
 
 
 ### References
-
-[INTELLIJ IDEA TRICKS TO BOOST PRODUCTIVITY FOR JAVA DEVS](https://www.safaribooksonline.com/library/view/intellij-idea-tricks/9781788625395/)
-
+* [Mastering IntelliJ IDEA keyboard shortcuts](https://www.jetbrains.com/help/idea/mastering-intellij-idea-keyboard-shortcuts.html)
+* [Discover IntelliJ IDEA guide](https://www.jetbrains.com/help/idea/discover-intellij-idea.html)
+* [IntelliJ IDEA Pro Tips guide](https://www.jetbrains.com/help/idea/intellij-idea-pro-tips.html)
+* [IntelliJ IDEA Tricks to Boost Productivity for Java Devs](https://www.safaribooksonline.com/library/view/intellij-idea-tricks/9781788625395/)
